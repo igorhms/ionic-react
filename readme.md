@@ -19,7 +19,7 @@ Node.js (versão recomendada: LTS)
 
 `npm ou yarn`
 
-📥 Instalação
+## 📥 Instalação
 
 Instale as dependências:
 
